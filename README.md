@@ -1,15 +1,15 @@
-# Olá, eu sou o Rafael Pereira! 👋
+# Hi, I'm Rafael Pereira! 👋
 
-### 🚀 Sobre Mim
+### 🚀 About Me
 
-Sou especialista em automações focado em escalar processos e produtividade através de **Inteligência Artificial** e **Automação**. Desenvolvo soluções que integram LLMs, APIs e bancos de dados para criar agentes inteligentes e sistemas autônomos.
+I am an automation specialist focused on scaling processes and productivity through **Artificial Intelligence** and **Automation**. I develop solutions that integrate LLMs, APIs, and databases to create intelligent agents and autonomous systems.
 
-- 🤖 **IA & Agentes:** Implementação de fluxos avançados com OpenAI, Google Platform e n8n.
-- ⚡ **Automação Workflow:** Especialista em **n8n**, conectando todo o ecossistema SaaS.
-- 🏗️ **Infraestrutura Cloud:** Experiência com **Supabase**, **Redis** e ambientes Google Cloud.
-- 💻 **Back-end & Dados:** Desenvolvimento sólido utilizando **Python**, **JavaScript** e **SQL**.
+- 🤖 **AI & Agents:** Implementing advanced workflows with **OpenAI**, **Google Cloud Platform**, and **n8n**.
+- ⚡ **Workflow Automation:** Expert in **n8n**, connecting the entire SaaS ecosystem.
+- 🏗️ **Cloud Infrastructure:** Experience with **Supabase**, **Redis**, and **Google Cloud** environments.
+- 💻 **Back-end & Data:** Solid development using **Python**, **JavaScript**, and **SQL**.
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/n8n/FF6D5B" height="48" width="48" alt="n8n" />
@@ -21,7 +21,7 @@ Sou especialista em automações focado em escalar processos e produtividade atr
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JS" />
 </div>
 
-### 📱 Conecte-se Comigo
+### 📱 Connect With Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rafaelgarciapereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
