@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Rafael Pereira! 👋</h1>
-  <p><strong>Especialista Automações com IA</strong></p>
+  <strong>Especialista Automações com IA</strong>
 </div>
 
 ---
@@ -25,7 +25,6 @@ Sou um desenvolvedor focado em escalar processos e produtividade através de **I
       <td><img src="https://skillicons.dev/icons?i=redis" height="48" /></td>
       <td><img src="https://skillicons.dev/icons?i=gcp" height="48" /></td>
       <td><img src="https://cdn.simpleicons.org/n8n/FF6D5B" height="48" width="48" alt="n8n" /></td>
-      <td><img src="https://cdn.simpleicons.org/openai/412991" height="48" width="48" alt="OpenAI" /></td>
       <td><img src="https://img.icons8.com/fluency/48/000000/sql.png" height="48" width="48" alt="SQL" /></td>
     </tr>
   </table>
