@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Rafael Pereira! 👋</h1>
-  <p><strong>Engenheiro de IA & Automação | Especialista em n8n & Agentes Autônomos</strong></p>
+  <p><strong>Especialista Automações com IA</strong></p>
 </div>
 
 ---
