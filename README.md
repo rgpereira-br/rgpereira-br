@@ -14,8 +14,6 @@ Sou um desenvolvedor focado em escalar processos e produtividade através de **I
 - 🏗️ **Infraestrutura Cloud:** Experiência com **Supabase**, **Redis** e ambientes Google Cloud.
 - 💻 **Back-end & Dados:** Desenvolvimento sólido utilizando **Python**, **JavaScript** e **SQL**.
 
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 <div align="left">
@@ -32,11 +30,6 @@ Sou um desenvolvedor focado em escalar processos e produtividade através de **I
     </tr>
   </table>
 </div>
-
----
-
-
----
 
 ### 📱 Conecte-se Comigo
 
