@@ -13,8 +13,8 @@ I am an automation specialist focused on scaling processes and productivity thro
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/n8n/FF6D5B" height="48" width="48" alt="n8n" />
-  <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="GCP" />
+  <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
   <img src="https://img.icons8.com/fluency/48/000000/sql.png" height="48" width="48" alt="SQL" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
